@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://meritkingseo2025.github.io/sitemap.xml
